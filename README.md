@@ -1,10 +1,10 @@
-# untitled11
+## BMI app
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+
+This project takes user input from user and calculate there body maas index accordingly.and it also changes background colour according to the value pf bmi.
 
 A few resources to get you started if this is your first Flutter project:
 
